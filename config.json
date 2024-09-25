@@ -1,0 +1,8 @@
+{
+    "login_url": "https://textpeak.commpeak.com/",
+    "campaign_creation_url": "https://textpeak.commpeak.com/campaigns/create-campaign/outbound",
+    "sender_url":"https://textpeak.commpeak.com/api/senders",
+    "message_template_url":"https://textpeak.commpeak.com/api/templates",
+    "email": "vishalpbrainerhub@gmail.com",
+    "password": "Vishal#12345"
+}
